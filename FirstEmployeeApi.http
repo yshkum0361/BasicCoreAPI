@@ -1,0 +1,14 @@
+@FirstEmployeeApi_HostAddress = https://localhost:7148
+
+GET {{FirstEmployeeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{FirstEmployeeApi_HostAddress}}/api/employee
+
+###
+
+GET {{FirstEmployeeApi_HostAddress}}/api/employee
+
+###
